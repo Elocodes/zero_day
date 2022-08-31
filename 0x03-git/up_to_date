@@ -1,1 +1,1 @@
-git fetch https:github.com/Elocodes/alx-zero_day master
+git pull --no commit https://github.com/Elocodes/alx-zero_day
